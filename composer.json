@@ -10,5 +10,18 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Hackingangle\\": "src/"
+        },
+        "psr-4": {
+            "Ha\\": "psr4/"
+        },
+        "classmap": ["classmap"],
+        "files": ["ha/Helper.php"]
+    }
 }
+
+c
