@@ -1,0 +1,14 @@
+{
+    "name": "hackingangle/blog",
+    "description": "blog that is written by hackingangle",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hackingangle",
+            "email": "hackingangle@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
